@@ -89,6 +89,7 @@ Activity column has 6 types as listed below.
 67. "fBodyBodyGyroJerkMag-mean()" 
 68. "fBodyBodyGyroJerkMag-std()"
 
+
 ### variable units
 Activity variable is factor type.
 Subject variable is integer type.
